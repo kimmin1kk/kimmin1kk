@@ -1,4 +1,4 @@
-  <p align = center> <img width="100" src="https://user-images.githubusercontent.com/101302590/230783088-ab0f0dde-2051-44ec-bae3-33954df03fc9.gif" /> </p>  
+  <p align = center> <img width="150" src="https://user-images.githubusercontent.com/101302590/230821479-ae70b5db-f242-4da1-bda2-84ae606e2e93.gif" /> </p>  
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&height=40&fontSize=60&desc=Welcome%20To%20kimmin1kk%20Github&descAlignY=75&descAlign=60&fontColor=d6ace6)
 
